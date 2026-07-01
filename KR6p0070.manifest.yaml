@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR6p0070/v1
+canonical_location: https://kanripo.org/bkk/KR6p0070/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土生無生論註
+  identifiers:
+    alt_id:
+    - X61n1167
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X61/X61n1167.xml
+    old_id: X61n1167
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0070_000.yaml, hash: 'sha256:d9250d300f95ce6396e205eb296b33de6ecad4a581b22a7fc00efdc3114c69bb'}
+  - {seq: 1, filename: KR6p0070_001.yaml, hash: 'sha256:cb61b0a9bf64bb1c31c6ca292cb4d829443ac956626fb721ce2537609ac41ead'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0070_000.markers.yaml, hash: 'sha256:806b0964c3cb1e5942fe7dd7c0e43141698c26b1624832c575329e1b02a6f3df'}
+  - {seq: 1, role: markers, filename: assets/KR6p0070_001.markers.yaml, hash: 'sha256:8816f8a1fcf605dd342f3ba2c6a5b7d6969ba5911c196ad709f10de70bfba295'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0070_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1167-A 淨土生無生論註序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0070_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 19963
+  label: 淨土生無生論註并科
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0070_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 淨土生無生論註
+  type: mulu
+  level: 1
+hash: sha256:726f24114d852134b66468824d3c21c811c2bfe3c84939922adfd8765f4a34ef
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
