@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6p0070/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 淨土生無生論注序生無生論者有門大師興無緣慈借虗空舌為往生居士之所説也如風鼓橐不日而成義立十門理融一念指漚示海生即無生即性明心佛非他佛真可謂善明佛智者矣居士作序鋟梓流通海內緇素莫不家傳戶習以為往生左券焉寂慮科文異帙不便披尋頃因會次謬注數言聊資初學一往而視似乎虗尚多駢然所引悉經疏成言未嘗妄加己意倘不以蛇足見鄙未必不為斯文之一助也萬曆壬子秋七月僧自恣日浮石門人正寂和南序
   hash: sha256:cdef2fc8b10d1ba15d14d90fe5ab35807232aa7489eaa1219b49691f33327eba
   markers:
   - {type: 序, offset: 0, content: No. 1167-A 淨土生無生論註序, id: KR6p0070_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 淨土生無生論註
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X61/X61n1167.xml
     old_id: X61n1167
-hash: sha256:ff60a2553273b97e8ce48de317a2b0a064839764ffa449963e08b2c58be3d507
+hash: sha256:e8f95911183ee69664da0d84d057943815993a7c7ed2a97fa00eb53659831536

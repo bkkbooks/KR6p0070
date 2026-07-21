@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0070_000-X.yaml, hash: 'sha256:e049c079db6a53a67420cf927b8b9078e79653c9f7bc50ced4f7e1524598c2ff'}
+  - {seq: 0, filename: KR6p0070_000-X.yaml, hash: 'sha256:58f35fdb52501e96801d365697d57fad64b290bd58f9cd70a7e95438d79edb6e'}
   - {seq: 1, filename: KR6p0070_001-X.yaml, hash: 'sha256:8e565cf95e0ed7a562b56d199df751a114600950d5fa693ef104faec083413d1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0070_000-X.markers.yaml, hash: 'sha256:65b64ac694f95692a8e0a449d57dcfbb88abfc9e930c73f37f8f07e7556a4617'}
+  - {seq: 0, role: markers, filename: assets/KR6p0070_000-X.markers.yaml, hash: 'sha256:606bfc88df75c1b61404c430e6c1d39755ec79394f94b3826b65da3b13cc1834'}
   - {seq: 1, role: markers, filename: assets/KR6p0070_001-X.markers.yaml, hash: 'sha256:39da6ece7f82c94f60a1837530a1823a9e0356c8f62a852fd43ff244bc634366'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0070_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1167-A 淨土生無生論註序
@@ -55,4 +55,4 @@ table_of_contents:
   label: 淨土生無生論註
   type: mulu
   level: 1
-hash: sha256:9401eed4d3f8ff942b220d89ee53a2c9ce965807e91f300947d5a08e87145e00
+hash: sha256:082b9915dcf4487f9914c0f96ea21488f3197d9e4636a94ad9929d8e60ade2a3
